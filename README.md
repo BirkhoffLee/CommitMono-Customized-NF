@@ -49,7 +49,7 @@ The official docker image was used to patch the font.
 docker run --rm -v ./input:/in:Z -v ./out:/out:Z nerdfonts/patcher
 ```
 
-# License
+## License
 
 [Commit Mono](https://commitmono.com/) is released under [SIL Open Font License 1.1](https://openfontlicense.org/documents/OFL.txt).
 This is an modified version of the original project.
