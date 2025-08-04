@@ -5,7 +5,7 @@ that has cv02 and cv11 set to ALT, and patched by [font-patcher](https://github.
 of Nerd Font.
 
 An example usage of the font in conjunction with Nix [home-manager](https://github.com/nix-community/home-manager) can
-be found [here](https://github.com/BirkhoffLee/dotfiles/blob/921abfc389b9ef8536a9752012f5189ed9d3a14e/hosts/AlexMBP/home/packages/commitmono-nerd-font.nix).
+be found [here](https://github.com/BirkhoffLee/dotfiles/blob/05823e24a46b9405686e412074fd7c2de28c2412/hosts/AlexMBP/home/packages/commitmono-nerd-font.nix).
 
 ## custom-settings.json
 
