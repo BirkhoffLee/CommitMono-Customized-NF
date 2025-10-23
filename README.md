@@ -4,8 +4,13 @@ This repo distributes a customized version of [Commit Mono](https://commitmono.c
 that has cv02 and cv11 set to ALT, and patched by [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher)
 of Nerd Font.
 
+* cv02: Alt. g
+* cv11: Alt. 1
+
 An example usage of the font in conjunction with Nix [home-manager](https://github.com/nix-community/home-manager) can
 be found [here](https://github.com/BirkhoffLee/dotfiles/blob/05823e24a46b9405686e412074fd7c2de28c2412/hosts/AlexMBP/home/packages/commitmono-nerd-font.nix).
+
+Side note: as of Ghostty 1.2.0, [there is now no reason to use patched fonts in Ghostty](https://ghostty.org/docs/install/release-notes/1-2-0#built-in-nerd-font-improvement).
 
 ## custom-settings.json
 
